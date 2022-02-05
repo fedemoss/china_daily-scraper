@@ -1,4 +1,4 @@
-# china_daily-scraper
+# China Daily newspaper scraper
 
 This is a web scraper for the famous chinese newspaper 'China Daily'. The aim of this project is to get information about 
 certain topics from different perspectives. So I started by analyzing which news are relevant in China.
